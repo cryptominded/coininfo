@@ -11,7 +11,7 @@ Markdown template for Coin info
 + Current supply: 140,000,000 MSP
 + Total supply: 200,000,000 MSP
 
----
+
 
 # Links
 
@@ -28,12 +28,12 @@ Markdown template for Coin info
 + Slack:
 + Telegram:
 
----
+
 
 # Description of coin/project/app
 A state-of-the-art digital asset exchange, EU token marketplace and wallet with powerful security features. Mothership makes cryptocurrency markets accessible for EU businesses and Estonian e-Residents.
 
----
+
 
 # About MSP
 ### Purpose of token
@@ -47,7 +47,7 @@ Thereby the token forms part of the reputation management & insight rewards syst
 + Access to Mothership beta products
 + Mothership reputation management
 
----
+
 
 # ICO Statistics
 Total raised: $40,019,021.02	/	92023 ETH
@@ -61,11 +61,11 @@ Total raised: $40,019,021.02	/	92023 ETH
 + ICO token price:
 + ROI since then: X
 
----
+
 
 # Team
 
-Member 1:
+*Member 1:*
 + Photo:
 + Name:
 + Role
@@ -73,7 +73,7 @@ Member 1:
 + Twitter:
 + Github:
 
-Member 1:
+*Member 1:*
 + Photo:
 + Name:
 + Role
@@ -81,9 +81,9 @@ Member 1:
 + Twitter:
 + Github:
 
----
 
-Other important information to be added in the template
+
+# Other important information to be added in the template
 + Traded on exchanges
 + Compatible wallets
 + No. of Unique addresses?
