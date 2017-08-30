@@ -2,34 +2,34 @@ Markdown template for Coin info
 
 # Important info
 
---- 
-Currency: Mothership
-Code: MSP
-Genesis date: 28 July 2017
-Coin Type: Asset
-Protocol: ERC20
-Consensus Algo: n/a
-Current supply: 140,000,000 MSP
-Total supply: 200,000,000 MSP
++ Currency: Mothership
++ Code: MSP
++ Genesis date: 28 July 2017
++ Coin Type: Asset
++ Protocol: ERC20
++ Consensus Algo: n/a
++ Current supply: 140,000,000 MSP
++ Total supply: 200,000,000 MSP
+
 ---
 
 # Links
 
---- 
-Whitepaper:
-Website:
-Github:
++ Whitepaper:
++ Website:
++ Github:
 
-Coinmarketcap:
-Etherscan Contract:
-Block explorer:
++ Coinmarketcap:
++ Etherscan Contract:
++ Block explorer:
 
-Facebook:
-Twitter:
-Reddit:
-BitcoinTalk
-Slack:
-Telegram:
++ Facebook:
++ Twitter:
++ Reddit:
++ BitcoinTalk
++ Slack:
++ Telegram:
+
 ---
 
 # Description of coin/project/app
@@ -67,22 +67,23 @@ ROI since then: X
 
 #Team
 
---- Member #1
-Photo:
-Name:
-Role
-Linkedin:
-Twitter:
-Github:
+Member 1:
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
 
---- Member #2
-Photo:
-Name:
-Role
-Linkedin:
-Twitter:
-Github:
+Member 1:
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
 
+---
 
 Other important information to be added in the template
 + Traded on exchanges
