@@ -11,9 +11,9 @@ Info about all the various cryptocurrencies
 
 # Coins
 
-+ Bitcoin - 
++ Bitcoin - Barry
 + Ethereum - Dylan
-+ Bitcoin Cash
++ Bitcoin Cash - Barry
 + Ripple - Brian
 + Litecoin - Barry
 + Dash
