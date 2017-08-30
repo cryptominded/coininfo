@@ -1,0 +1,3 @@
+Markdown template for Coin info
+
+Name: Mothership
