@@ -11,27 +11,27 @@ Info about all the various cryptocurrencies
 
 # Coins
 
-Bitcoin - 
-Ethereum - Dylan
-Bitcoin Cash
-Ripple
-Litecoin - Barry
-Dash
-NEM
-IOTA
-Monero
-NEO
-Ethereum Classic
-OmiseGO
-Qtum
-Hshare
-BitConnect
-Stratis
-Lisk
-Zcash
-Waves
-TenX
-Bytecoin
-EOS
-BitShares
-Steem
++ Bitcoin - 
++ Ethereum - Dylan
++ Bitcoin Cash
++ Ripple
++ Litecoin - Barry
++ Dash
++ NEM
++ IOTA
++ Monero
++ NEO
++ Ethereum Classic
++ OmiseGO
++ Qtum
++ Hshare
++ BitConnect
++ Stratis
++ Lisk
++ Zcash
++ Waves
++ TenX
++ Bytecoin
++ EOS
++ BitShares
++ Steem
