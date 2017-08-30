@@ -14,7 +14,7 @@ Info about all the various cryptocurrencies
 + Bitcoin - 
 + Ethereum - Dylan
 + Bitcoin Cash
-+ Ripple
++ Ripple - Brian
 + Litecoin - Barry
 + Dash
 + NEM
