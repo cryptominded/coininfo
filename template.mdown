@@ -1,6 +1,7 @@
 Markdown template for Coin info
 
 # Important info
+
 --- 
 Currency: Mothership
 Code: MSP
@@ -13,6 +14,7 @@ Total supply: 200,000,000 MSP
 ---
 
 # Links
+
 --- 
 Whitepaper:
 Website:
