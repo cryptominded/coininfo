@@ -1,0 +1,93 @@
+Markdown template for Coin info
+
+# Important info
+
++ Currency: Mothership
++ Code: MSP
++ Genesis date: 28 July 2017
++ Coin Type: Asset
++ Protocol: ERC20
++ Consensus Algo: n/a
++ Current supply: 140,000,000 MSP
++ Total supply: 200,000,000 MSP
+
+
+
+# Links
+
++ Whitepaper:
++ Website:
++ Github:
++ Coinmarketcap:
++ Etherscan Contract:
++ Block explorer:
++ Facebook:
++ Twitter:
++ Reddit:
++ BitcoinTalk
++ Slack:
++ Telegram:
+
+
+
+# Description of coin/project/app
+A state-of-the-art digital asset exchange, EU token marketplace and wallet with powerful security features. Mothership makes cryptocurrency markets accessible for EU businesses and Estonian e-Residents.
+
+
+
+# About MSP
+### Purpose of token
+The mothership token gives exchange users access to specific features of the exchange that non-holders do not get access to.
+Thereby the token forms part of the reputation management & insight rewards system of the Mothership exchange.
+
+### Incentives for holders
++ Access to Premium and Platinum account tiers on the exchange
++ Access to the Mothership app platform layer
++ Community curation and insight rewards
++ Access to Mothership beta products
++ Mothership reputation management
+
+
+
+# ICO Statistics
+Total raised: $40,019,021.02	/	92023 ETH
+
++ Pre-ICO date:
++ Pre-ICO raised:
+
++ Main ICO date:
++ Main ICO raised:
+
++ ICO token price:
++ ROI since then: X
+
+
+
+# Team
+
+*Member 1:*
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
+
+*Member 1:*
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
+
+
+
+# Other important information to be added in the template
++ Traded on exchanges
++ Compatible wallets
++ No. of Unique addresses?
++ No. of nodes?
++ Industry they're in
+
+
