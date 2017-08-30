@@ -1,0 +1,50 @@
+#Litecoin
+
+# Important info
+
++ Currency: Litecoin
++ Code: LTC
++ Genesis date: October 7, 2011
++ Coin Type: Currency
++ Consensus Algo: Proof of Work - Scrypt
++ Current supply: 52,701,232 LTC (as of August 30, 2017)
++ Total supply: 84,000,000 LTC
+
+
+# Links
+
++ Whitepaper: As Litecoin was released as a BTC clone with only a few small changes (see below), there was no new whitepaper created.
++ Website: https://litecoin.com/; [Development] https://litecoin.org/
++ Github: https://github.com/litecoin-project/litecoin
++ Coinmarketcap: https://coinmarketcap.com/currencies/litecoin/
++ Block explorer: http://explorer.litecoin.net/chain/Litecoin
++ Twitter: https://twitter.com/LitecoinProject; [Unofficial] https://twitter.com/litecoin
++ Reddit: http://www.reddit.com/r/litecoin
++ Telegram: https://web.telegram.org/#/im?p=@Litecoin
+
+
+# About LTC
+### Purpose of coin
+Litecoin was released in order to address several issues that founder Charlie Lee saw with Bitcoin's potential to act as a mainstream currency. This included a shorter block time of 2.5 minutes (compared to Bitcoin's 10 minutes) and a greater cap of 84 million coins. Lastly, Litecoin implemented the Scrypt hashing algorithm instead of SHA-256 to remove the advantage GPUs have in mining.
+
+### Incentives for holders
++ Use of Litecoin as a high-speed, low-transaction-cost currency. 
++ In May 2017, Litecoin adopted Segregated Witness several months ahead of Bitcoin and was the first transaction on Lightning Network the same month.
+
+# Team
+
+*Charlie Lee*
++ Photo: https://avatars3.githubusercontent.com/u/999927?v=4&s=460
++ Role: Creator, Formerly Director of Endineering @ Coinbase
++ Twitter: https://twitter.com/SatoshiLite
++ Github: https://github.com/coblee
++ LinkedIn: https://www.linkedin.com/in/chocobo/
+
+
+
+
+# Other important information to be added in the template
++ Traded on nearly all exchanges including GDAX, Bittrex, and Poloniex, see https://litecoin.com/services#exchanges for a list
++ Wallets supported include Electrum, Jaxx, Coinomi, see https://litecoin.com/services#wallets for more
++ Nearly 700k unique wallet addresses have more than one lite (.001 LTC) (https://bitinfocharts.com/top-100-richest-litecoin-addresses.html)
++ Nearly 14k Litecoin nodes (https://bitinfocharts.com/litecoin/nodes/)
