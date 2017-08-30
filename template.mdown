@@ -90,4 +90,7 @@ Total raised: $40,019,021.02	/	92023 ETH
 + No. of nodes?
 + Industry they're in
 
+# Contributors
++ Name: 
++ Weblink:
 
