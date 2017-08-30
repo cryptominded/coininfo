@@ -18,11 +18,9 @@ Markdown template for Coin info
 + Whitepaper:
 + Website:
 + Github:
-
 + Coinmarketcap:
 + Etherscan Contract:
 + Block explorer:
-
 + Facebook:
 + Twitter:
 + Reddit:
