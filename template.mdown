@@ -55,11 +55,11 @@ Total raised: $40,019,021.02	/	92023 ETH
 + Pre-ICO date:
 + Pre-ICO raised:
 
-+Main ICO date:
-+Main ICO raised:
++ Main ICO date:
++ Main ICO raised:
 
-+ICO token price:
-+ROI since then: X
++ ICO token price:
++ ROI since then: X
 
 ---
 
