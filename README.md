@@ -20,10 +20,10 @@ Info about all the various cryptocurrencies
 + NEM
 + IOTA
 + Monero
-+ NEO
++ NEO - Mako
 + Ethereum Classic
-+ OmiseGO
-+ Qtum
++ OmiseGO - Mako
++ Qtum - Mako
 + Hshare
 + BitConnect
 + Stratis
