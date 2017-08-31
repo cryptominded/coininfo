@@ -1,0 +1,75 @@
+Markdown template for Coin info
+
+# Important info
+
++ Currency: Monero
++ Code: XMR
++ Genesis date: 18 April 2014
++ Coin Type: Currency
++ Consensus Algo: CryptoNight Proof of Work (PoW)
++ Current supply: 15,016,112 XMR
++ Total supply: ~18,300,000 XMR
+
+
+
+# Links
+
++ Whitepaper: https://lab.getmonero.org/pubs/MRL-0001.pdf
++ Website: https://getmonero.org/
++ Resource Page: https://www.monero.how/
++ Github: https://github.com/monero-project/monero
++ Coinmarketcap: https://coinmarketcap.com/currencies/monero/
++ Block explorer: http://moneroblocks.info/
++ Facebook: https://www.facebook.com/monerocurrency/
++ Twitter: https://twitter.com/monerocurrency
++ Reddit: https://www.reddit.com/r/Monero/
++ BitcoinTalk: https://bitcointalk.org/index.php?topic=583449.0
++ Slack:
++ Telegram:https://t.me/monero
+
+
+
+# Description of coin/project/app
+Monero is a secure, private, untraceable currency. It is open-source and freely available to all. With Monero, you are your own bank. Only you control and are responsible for your funds; your accounts and transactions are kept private from prying eyes.
+
+
+
+# About XMR
+### Purpose of token
+XMR is the native asset on the Monero blockchain, similar to BTC on the Bitcoin blockchain.
+
+### Incentives for holders
++ Advanced cryptography, allowing for 100% untraceable transactions
++ Larger network of global users who transact with Monero daily
++ True fungibility in tokens
+
+
+
+# Team
+
+*Riccardo "fluffypony" Spagni:*
++ Photo: https://avatars3.githubusercontent.com/u/1944293?v=4&s=400
++ Role: Founder, Core Team Dev Member
++ Twitter: https://twitter.com/fluffypony?lang=en
++ Github: https://github.com/fluffypony
+
+*Member 2:*
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
+
+
+
+# Other important information to be added in the template
++ Traded on exchanges
++ Compatible wallets
++ No. of Unique addresses?
++ No. of nodes?
++ Industry they're in
+
+# Contributors
++ Name: Brian Schuster
++ Weblink: http://www.hivergent.com
