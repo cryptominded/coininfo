@@ -1,0 +1,79 @@
+Markdown template for Coin info
+
+# Important info
+
++ Currency: Ripple
++ Code: XRP
++ Genesis date: Est. 2012
++ Coin Type: Currency
++ Consensus Algo: Ripple Protocol Consensus Algorithm (Proof of Correctness)
++ Current supply: 100,000,000,000 XRP
++ Total supply: 100,000,000,000 XRP
+
+
+
+# Links
+
++ Whitepaper: https://ripple.com/files/ripple_solutions_guide.pdf
++ Website: https://ripple.com
++ Github: https://github.com/ripple
++ Coinmarketcap: https://coinmarketcap.com/currencies/ripple/
++ Block explorer: https://ripple.com/build/ripple-info-tool/
++ Facebook: https://www.facebook.com/ripplepay/
++ Twitter: https://twitter.com/Ripple
++ Reddit: https://www.reddit.com/r/Ripple/
++ Forum: https://www.xrpchat.com/
++ Telegram: https://www.xrpchat.com/
+
+
+
+# Description of coin/project/app
+Ripple delivers a single, frictionless experience for global payments.
+Rather than a constellation of disparate technologies, unstandardized
+communications and centralized networks, Ripple is a single, global
+network of banks that send and receive payments via Ripple’s distributed
+financial technology -- providing real-time messaging, clearing and
+settlement of transactions.
+
+
+
+# About XRP
+### Purpose of token
+The Ripple Token is used as a mechanism to prevent spamming on the network from users,
+forcing a cost would-be malicious users. The token also acts as the native asset on
+the blockchain, allowing user to pay for assets via XRP.
+
+### Incentives for holders
++ Fixed Supply of XRP
++ Partnerships with major banking organizations globally
++ Platform built for a real world applications, incentivizing long term usage
+
+
+
+# Team
+
+*Jeb McCaleb:*
++ Photo:http://bitcoinist.com/wp-content/uploads/2015/04/jed-mccaleb.jpg
++ Role: Founder, former CEO
++ Linkedin: https://www.linkedin.com/in/jed-mccaleb-4052a4/
++ Twitter: https://twitter.com/jedmccaleb?lang=en
++ Github: https://github.com/jedmccaleb?tab=activity
+
+*Brad Garlinhouse:*
++ Photo:https://ripple.com/wp-content/themes/ripple-beta/assets/img/leadership/brad.jpg
++ Role: CEO
++ Linkedin: https://www.linkedin.com/in/bradgarlinghouse/
++ Twitter: https://twitter.com/bgarlinghouse
+
+
+
+# Other important information to be added in the template
++ Traded on exchanges
++ Compatible wallets
++ No. of Unique addresses?
++ No. of nodes?
++ Industry they're in
+
+# Contributors
++ Name: Brian Schuster
++ Weblink: http://hivergent.com/

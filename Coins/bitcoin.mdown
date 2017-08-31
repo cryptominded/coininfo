@@ -1,0 +1,63 @@
+# Bitcoin (BTC) 
+
+# Important info
+
++ Currency: Bitcoin
++ Code: BTC or XBT
++ Genesis date: January 3, 2009
++ Coin Type: Currency
++ Consensus Algo: Proof of Work - SHA256
++ Current supply: 16,500,000 BTC (as of September 1, 2017)
++ Total supply: 21,000,000 BTC
+
+
+
+# Links
+
++ Whitepaper: http://www.academia.edu/download/32413652/BitCoin_P2P_electronic_cash_system.pdf
++ Website: www.bitcoin.org
++ Github: https://github.com/bitcoin/bitcoin
++ Coinmarketcap: https://coinmarketcap.com/currencies/bitcoin/
++ Block explorer: www.blockexplorer.com
++ Facebook: https://www.facebook.com/bitcoins/
++ Twitter: https://twitter.com/bitcoin
++ Reddit: www.reddit.com/r/bitcoin
++ BitcoinTalk: all of it :)  
++ Slack: 
++ Telegram:
+
+
+
+# Description of coin/project/app
+Bitcoin is the original cryptocurrency. It was designed to allow for decentralized management and transacting in a secure, trustless network with an immutable ledger. 
+
+As blocks are generated roughly every ten minutes, Bitcoin is best suited for transactions which are not time sensitive - it may take an hour to get the 6 confirmations generally required for a transaction to be ‘secured’. Additionally, Bitcoin is not designed for high transaction throughput, able to handle only a few transactions per second. Thus, transaction fees tend to be higher to incentive miners to include a transaction in their block. As of September 1, 2017 transaction fees are about $8/transaction. These factors make Bitcoin ill-suited for micro transactions such as buying a cup of coffee. 
+
+In order to combat these issues, Bitcoin is implementing technologies such as Segregated Witness and increasing the block size, which will hopefully reduce the transaction costs. 
+
+
+### Benefits for holders
++ Ability to use Bitcoin as the most widely used cryptocurrency – you can even purchase Amazon gift cards with Bitcoin
++ As Bitcoin evolves to support more transactions and fees fall, demand will grow increasing Bitcoin’s value 
++ As Bitcoin increases in popularity and is accepted more widely, demand will grow increasing Bitcoin’s value
+
+
+
+# Team
+
+*Member 1:*
++ Name: Satoshi Nakamoto
++ Role: Creator
+
+
+
+# Other important information to be added in the template
++ Traded on virtually every exchange that trades cryptocurrency
++ Compatible with many popular wallets such as Jaxx and Electrum, see https://bitcoin.org/en/choose-your-wallet for a broad list
++ There are over 750k Bitcoin addresses with more than 0.001 BTC
++ There are around 55k active Bitcoin nodes (https://bitinfocharts.com/bitcoin/nodes/)
+
+
+# Contributors
++ Name: Barry Leybovich 
++ Weblink: www.barryleybovich.com 

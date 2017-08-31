@@ -19,7 +19,7 @@ Info about all the various cryptocurrencies
 + Dash
 + NEM
 + IOTA
-+ Monero
++ Monero - Brian
 + NEO - Mako
 + Ethereum Classic
 + OmiseGO - Mako
