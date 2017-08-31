@@ -8,8 +8,6 @@ Markdown template for Coin info
 + Coin Type: Asset
 + Protocol: ERC20
 + Consensus Algo: n/a
-+ Current supply: 140,000,000 MSP
-+ Total supply: 200,000,000 MSP
 
 
 
