@@ -48,3 +48,7 @@ Litecoin was released in order to address several issues that founder Charlie Le
 + Wallets supported include Electrum, Jaxx, Coinomi, see https://litecoin.com/services#wallets for more
 + Nearly 700k unique wallet addresses have more than one lite (.001 LTC) (https://bitinfocharts.com/top-100-richest-litecoin-addresses.html)
 + Nearly 14k Litecoin nodes (https://bitinfocharts.com/litecoin/nodes/)
+
+# Contributors 
++ Name: Barry Leybovich 
++ Weblink: www.barryleybovich.com 
