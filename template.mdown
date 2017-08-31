@@ -50,7 +50,7 @@ Thereby the token forms part of the reputation management & insight rewards syst
 
 
 # ICO Statistics
-Total raised: $40,019,021.02	/	92023 ETH
+Total raised:
 
 + Pre-ICO date:
 + Pre-ICO raised:
@@ -59,7 +59,7 @@ Total raised: $40,019,021.02	/	92023 ETH
 + Main ICO raised:
 
 + ICO token price:
-+ ROI since then: X
++ ROI since then: <don't fill in>
 
 
 
@@ -73,7 +73,7 @@ Total raised: $40,019,021.02	/	92023 ETH
 + Twitter:
 + Github:
 
-*Member 1:*
+*Member 2:*
 + Photo:
 + Name:
 + Role
