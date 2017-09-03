@@ -1,0 +1,64 @@
+# Tether
+
+# Important info
+
++ Currency: Tether
++ Code: USDT
++ Genesis date: October 6, 2014
++ Coin Type: Asset
++ Protocol: Omni Layer
++ Consensus Algo: Proof of Reserve
+
+
+
+# Links
+
++ Whitepaper: https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf
++ Website: https://tether.to/
++ Github:
++ Coinmarketcap: https://coinmarketcap.com/assets/tether/
++ Etherscan Contract:
++ Block explorer: http://omnichest.info/lookupsp.aspx?sp=31
++ Facebook: https://facebook.com/tether.to
++ Twitter: https://twitter.com/tether_to
++ Reddit: https://www.reddit.com/r/Tether/
++ BitcoinTalk
++ Slack:
++ Telegram:
+
+
+
+# Description of coin/project/app
+Tether was created to make many of the advantages available to cryptocurrency - trustless exchanges, an immutable ledger, and transparency - available to fiat currencies such as the US Dollar. It is built on the Omni Layer so Tether is fully visible on the Bitcoin blockchain for security and transparency.
+Tether achieves this by implementing a Proof of Reserve whereby Tether Limited (the company behind the coin) holds in reserves real USD fiat in accounts that are audited regularly. Tether coins are minted on a 1:1 basis with the real USD assets held by the company, hence creating the stable value store.
+While Tether has not always perfectly maintained a $1.00 value, it has been generally stable over time at that price.
+
+# About USDT
+### Purpose of coin
+The purpose of Tether is to maintain a 1:1 value between the US Dollar and the USD Tether coin. This allows USDT to be a stable store of value as it is backed by real USD assets.
+
+### Incentives for holders
++ A stable store of value on the block chain
++ Convenience of transacting in a familiar currency
+
+
+# Team
+
+*Member 1:*
++ Photo: https://media.licdn.com/media/AAEAAQAAAAAAAAOBAAAAJDQ1MWVlOGM5LWJmZDMtNDhjNi1hNGMyLWRkNzRkOTRjODM2OQ.jpg
++ Name: Reeve Collins
++ Role: CEO and Co-Founder
++ Linkedin: https://www.linkedin.com/in/reevecollins
++ Twitter: https://twitter.com/reevec
+
+
+# Other important information to be added in the template
++ Most exchanges such as Poloniex, Bitfinex, and more support USDT
++ Supported by many multi-currency wallets and any Omni Layer enabled wallet like Ambisafe, Holy Transaction or Omni Wallet
++ unique addresses?
++ No. of nodes?
++ Industry: Financial Services
+
+# Contributors
++ Name: Barry Leybovich
++ Weblink: www.barryleybovich.com
