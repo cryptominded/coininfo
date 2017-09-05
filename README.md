@@ -35,3 +35,4 @@ Info about all the various cryptocurrencies
 + EOS
 + BitShares
 + Steem
++ Tether - Barry
