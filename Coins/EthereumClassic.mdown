@@ -1,0 +1,67 @@
+Markdown template for Coin info
+
+# Important info
+
++ Currency: Ethereum Classic
++ Code: ETC
++ Genesis date: 20 July 2016
++ Coin Type: Currency
++ Consensus Algo: Ethash (Proof of Wrok)
++ Current supply: 95,237,240 ETC
++ Total supply: 230,000,000 ETC
+
+
+
+# Links
+
++ Whitepaper: https://coss.io/documents/white-papers/ethereum-classic.pdf
++ Manifesto: https://ethereumclassic.github.io/blog/2016-07-11-manifesto/
++ Website: https://ethereumclassic.github.io/
++ Github: https://github.com/ethereumclassic
++ Coinmarketcap: https://coinmarketcap.com/currencies/ethereum-classic/
++ Block explorer: https://gastracker.io/
++ Facebook: https://www.facebook.com/ethereumclassic/
++ Twitter: https://twitter.com/eth_classic
++ Reddit: https://www.reddit.com/r/EthereumClassic/
++ BitcoinTalk: https://bitcointalk.org/index.php?topic=1559630.0
++ Slack: https://ethereumclassic.herokuapp.com/
++ Telegram:https://telegram.me/ethclassic
+
+
+
+# Description of coin/project/app
+Ethereum Classic is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. Ethereum Classic is a continuation of the original Ethereum blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.
+
+
+
+# About ETC
+### Purpose of token
+ETC is the native asset on the Ethereum Classic blockchain, similar to BTC on the Bitcoin blockchain.
+
+### Incentives for holders
++ Includes many of the same benefits found with the Ethereum blockchain
++ Holds to the original vision of a censorship proof, unaltered blockchain. Code is Law.
++ Decentralized governance structure to maintain this vision
+
+
+
+# Team
+
+*Igor Artamonov:*
++ Photo: https://www.etcdevteam.com/media/splix.jpg
++ Role: ETCDEV team CTO
++ Twitter: https://twitter.com/splix
++ Github: https://github.com/splix
+
+*Member 2:*
++ Photo:
++ Name:
++ Role
++ Linkedin:
++ Twitter:
++ Github:
+
+
+# Contributors
++ Name: Brian Schuster
++ Weblink: http://www.hivergent.com
