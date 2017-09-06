@@ -6,7 +6,7 @@ Markdown template for Coin info
 + Code: ETC
 + Genesis date: 20 July 2016
 + Coin Type: Currency
-+ Consensus Algo: Ethash (Proof of Wrok)
++ Consensus Algo: Ethash (Proof of Work)
 + Current supply: 95,237,240 ETC
 + Total supply: 230,000,000 ETC
 
