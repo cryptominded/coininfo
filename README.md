@@ -17,11 +17,11 @@ Info about all the various cryptocurrencies
 + Ripple - Brian
 + Litecoin - Barry
 + Dash
-+ NEM
++ NEM - Brian
 + IOTA
 + Monero - Brian
 + NEO - Mako
-+ Ethereum Classic
++ Ethereum Classic - Brian
 + OmiseGO - Mako
 + Qtum - Mako
 + Hshare
