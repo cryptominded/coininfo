@@ -39,9 +39,9 @@ Ethereum Classic is a decentralized platform that runs smart contracts: applicat
 ETC is the native asset on the Ethereum Classic blockchain, similar to BTC on the Bitcoin blockchain.
 
 ### Incentives for holders
-+ Includes many of the same benefits found with the Ethereum blockchain
++ Includes many of the same benefits found with the Ethereum blockchain.
 + Holds to the original vision of a censorship proof, unaltered blockchain. Code is Law.
-+ Decentralized governance structure to maintain this vision
++ Decentralized governance structure to maintain this vision.
 
 
 
