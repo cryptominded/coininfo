@@ -30,7 +30,7 @@ Info about all the various cryptocurrencies
 + Lisk
 + Zcash
 + Waves
-+ TenX
++ TenX - Barry 
 + Bytecoin
 + EOS
 + BitShares
