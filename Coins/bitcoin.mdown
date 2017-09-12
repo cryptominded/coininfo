@@ -31,7 +31,7 @@
 # Description of coin/project/app
 Bitcoin is the original cryptocurrency. It was designed to allow for decentralized management and transacting in a secure, trustless network with an immutable ledger. 
 
-As blocks are generated roughly every ten minutes, Bitcoin is best suited for transactions which are not time sensitive - it may take an hour to get the 6 confirmations generally required for a transaction to be ‘secured’. Additionally, Bitcoin is not designed for high transaction throughput, able to handle only a few transactions per second. Thus, transaction fees tend to be higher to incentive miners to include a transaction in their block. As of September 1, 2017 transaction fees are about $8/transaction. These factors make Bitcoin ill-suited for micro transactions such as buying a cup of coffee. 
+As blocks are generated roughly every ten minutes, Bitcoin is best suited for transactions which are not time sensitive - it may take an hour to get the 6 confirmations generally required for a transaction to be ‘secured’. Additionally, Bitcoin is not designed for high transaction throughput, able to handle only a few transactions per second. Thus, transaction fees tend to be higher to incentivize miners to include a transaction in their block. As of September 1, 2017 transaction fees are about $8/transaction. These factors make Bitcoin ill-suited for micro transactions such as buying a cup of coffee. 
 
 In order to combat these issues, Bitcoin is implementing technologies such as Segregated Witness and increasing the block size, which will hopefully reduce the transaction costs. 
 

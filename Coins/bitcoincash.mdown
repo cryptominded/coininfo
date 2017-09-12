@@ -1,0 +1,65 @@
+# Bitcoin (BCC) 
+
+# Important info
+
++ Currency: Bitcoin Cash
++ Code: BCC, XBC, or BCH
++ Genesis date:
++ Fork date: August 1, 2017
++ Coin Type: Currency
++ Consensus Algo: Proof of Work - SHA256
++ Current supply: 16,500,000 BCC (as of September 1, 2017)
++ Total supply: 21,000,000 BCC
+
+
+
+# Links
+
++ Whitepaper: http://www.academia.edu/download/32413652/BitCoin_P2P_electronic_cash_system.pdf
++ Website: https://www.bitcoincash.org/
++ Github: https://github.com/Bitcoin-ABC/bitcoin-abc
++ Coinmarketcap: https://coinmarketcap.com/currencies/bitcoin-cash/
++ Block explorer: https://blockchair.com/
++ Facebook: https://www.facebook.com/bitcoincashorg/
++ Twitter: https://twitter.com/BITCOlNCASH
++ Reddit: https://www.reddit.com/r/Bitcoincash
++ BitcoinTalk: https://bitcointalk.org/index.php?topic=2040221.0
++ Slack: 
++ Telegram:
+
+
+
+# Description of coin/project/app
+Bitcoin Cash is a hard-fork off of the original Bitcoin blockchain that occured in August 2017. The community forked Bitcoin Cash off of Bitcoin to implement a method of addressing rising Bitcoin transaction fees.
+
+Bitcoin Core (the original) is not designed for high transaction throughput, able to handle only a few transactions per second largely limited by a small block size - which limits the number of transactions which can be added to the blockchain at a time. Thus, transaction fees tend to be higher to incentivize miners to include a transaction in their block. As of September, 2017 transaction fees are about $8/transaction. These factors make Bitcoin ill-suited for micro transactions such as buying a cup of coffee. 
+To combat this, the Bitcoin Cash team is planning on increasing the block size eight-fold, and it has already doubled the block size. This will help reduce transaction and should make it easier to use as a mainstream currency.
+
+Many people do not support Bitcoin Cash because they believe that there should not have been a hard-fork, and rather that the entire community should have created a plan to address scaling. 
+That said, proponents of Bitcoin Cash rightfully argue that Bitcoin Core was originally envisioned more as a settlement layer and a long-term store of value than as a currency for daily use.
+
+
+### Benefits for holders
++ Ability to use Bitcoin Cash as currency, though it is not yet widely accepted
++ As Bitcoin Cash evolves to support more transactions and fees fall, demand will grow increasing Bitcoin Cash’s value 
++ As Bitcoin Cash increases in popularity and is accepted more widely, demand will grow increasing Bitcoin Cash’s value
+
+
+
+# Team
+
+*Member 1:*
++ Name: Satoshi Nakamoto
++ Role: Creator
+
+
+
+# Other important information to be added in the template
++ Traded on most major exchanges which trade cryptocurrency
++ Compatible with many popular wallets such as Coinomi and Ledger, see https://www.bitcoincash.org/ for a broad list
++ There are over 700k Bitcoin Cash addresses with more than 0.001 BTC
+
+
+# Contributors
++ Name: Barry Leybovich 
++ Weblink: www.barryleybovich.com 
