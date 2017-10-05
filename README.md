@@ -27,10 +27,10 @@ Info about all the various cryptocurrencies
 + Hshare
 + BitConnect
 + Stratis
-+ Lisk
++ Lisk - Brian
 + Zcash
 + Waves
-+ TenX - Barry 
++ TenX - Barry
 + Bytecoin
 + EOS
 + BitShares

@@ -1,0 +1,67 @@
+Markdown template for Coin info
+
+# Important info
+
++ Currency: Lisk
++ Code: LSK
++ Genesis date: 24 May 2016
++ Coin Type: Currency
++ Consensus Algo: Delegated Proof of Stake (DPoS)
++ Current supply: 113,138,100 LSK
++ Total supply: 100,000,000 + Forging LSK
+
+
+
+# Links
+
++ Whitepaper: http://archive.is/DrpIJ
++ Website: https://lisk.io/
++ Github: https://github.com/LiskHQ
++ Coinmarketcap: https://coinmarketcap.com/currencies/lisk/
++ Block explorer: https://explorer.lisk.io/
++ Facebook: https://www.facebook.com/LiskHQ/
++ Twitter: https://twitter.com/LiskHQ
++ Reddit: https://www.reddit.com/r/Lisk/
++ BitcoinTalk: https://bitcointalk.org/index.php?topic=1346646
++ Gitter: https://gitter.im/LiskHQ/lisk
++ Telegram: https://t.me/LiskGroup
+
+
+
+# Description of coin/project/app
+Lisk is a next generation platform that allows for the development and distribution of JavaScript based decentralized applications using an easy to use, fully featured ecosystem. Through Lisk, developers can build, publish, distribute, and monetize their applications within a custom built cryptocurrency powered system that utilizes custom blockchains, smart contracts, cloud storage, and computing nodes; all from within one industry solution.
+
+
+
+# About LSK
+### Purpose of token
+LSK is the native asset on the Lisk blockchain, similar to BTC on the Bitcoin blockchain.
+
+### Incentives for holders
++ Major competitor to Ethereum, with a separate paradigm on building Dapps.
++ Written in Node.js, allow for easier access to a larger group of developers
++ Plug and Play ecosystem, with support from the blockchain to the launch of your application
+
+
+
+# Team
+
+*Oliver Beddows:*
++ Photo: https://lisk.io/i/members/oliver.jpg
++ Name: Oliver Beddows
++ Role: Co-Founder
++ Linkedin: https://www.linkedin.com/in/oliver-beddows-19aa09107/
++ Twitter: https://twitter.com/karmacrypto?lang=en
++ Github: https://github.com/karmacoma
+
+*Max Kordek:*
++ Photo: https://lisk.io/i/members/max.jpg
++ Name: Max Kordek
++ Role: Co-Founder
++ Linkedin: https://www.linkedin.com/in/maxkordek/
++ Twitter: https://twitter.com/MaxKordek
++ Github: https://github.com/MaxKK
+
+# Contributors
++ Name: Brian Schuster
++ Weblink: Hivergent.com
