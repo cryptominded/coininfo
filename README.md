@@ -18,7 +18,7 @@ Info about all the various cryptocurrencies
 + Litecoin - Barry
 + Dash
 + NEM - Brian
-+ IOTA
++ IOTA - Vamshi
 + Monero - Brian
 + NEO - Mako
 + Ethereum Classic - Brian
@@ -29,7 +29,7 @@ Info about all the various cryptocurrencies
 + Stratis
 + Lisk - Brian
 + Zcash
-+ Waves
++ Waves - Vamshi
 + TenX - Barry
 + Bytecoin
 + EOS
